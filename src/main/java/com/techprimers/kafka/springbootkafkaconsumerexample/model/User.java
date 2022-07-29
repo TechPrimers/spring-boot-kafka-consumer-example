@@ -25,7 +25,6 @@ public class User {
     }
 
     public User(String name, String dept) {
-
         this.name = name;
         this.dept = dept;
     }
